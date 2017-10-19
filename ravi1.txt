@@ -1,0 +1,23 @@
+    1  git init
+    2  ls -lart
+    3  vi ravi.txt
+    4  git status
+    5  git add ravi.txt
+    6  git status
+    7  git commit -m "Hello"
+    8  git status
+    9  git config --global user.email "sattu.ravikumar@gmail.com"
+   10  git config --global user.name "satturavi"
+   11  git remote -v
+   12  git commit
+   13  git status
+   14  git commit -m "Hello"
+   15  git status
+   16  git remote -v
+   17  git remote add origin https://github.com/satturavi/ravirepo.git
+   18  git remote -v
+   19  git origin master
+   20  git push -u origin master
+   21  history
+   22  history--> ravi1.txt
+   23  history --> ravi1.txt
